@@ -8,15 +8,13 @@ through government-to-government cooperation to accelerate the global green tran
 </h3>
 
 </div>
-
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/98508b36-fbbd-449e-900a-45b044181609"
+    src="https://github.com/user-attachments/assets/794480bb-ad43-4a30-a17e-393246c4ed6e"
     alt="Global Cooperation Map"
     width="900"
   />
 </p>
-
 <p align="center">
   <a href="https://ens.dk/en/global-cooperation/global-cooperation">
     Learn more about the Centre for Global Cooperation at the Danish Energy Agency
